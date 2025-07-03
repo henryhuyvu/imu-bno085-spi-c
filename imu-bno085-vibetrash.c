@@ -21,15 +21,6 @@
    Note: SPI devices can have a number of different naming schemes for pins. See
    the Wikipedia page at https://en.wikipedia.org/wiki/Serial_Peripheral_Interface
    for variations.
-
- * TODO: Next steps. 
- 1. Review the BNO085, SH-2, and SHTP documentation.
- 2. Explore the following resources.
- - https://github.com/n-mam/imu/blob/master/imu/bno055/bno055.c
- - https://github.com/myles-parfeniuk/esp32_BNO08x
- - https://github.com/MacbethFPV/BNO085-STM32F4-SPI-LL-DRIVER/blob/main/BNO080.c
- - https://github.com/hcrest/bno080-driver/blob/master/shtp.c
- - https://github.com/boschsensortec/BMI08x_SensorAPI/blob/master/examples/bmi088_anymotion/read_sensor_data/read_sensor_data.c
 */
 
 #include <stdio.h>
